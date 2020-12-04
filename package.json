@@ -1,6 +1,6 @@
 {
   "name": "console-signature",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "Signature for DevTools",
   "main": "index.js",
   "scripts": {

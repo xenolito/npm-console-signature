@@ -5,11 +5,12 @@ function signature(config) {
       url: (config && config.url) || "https://www.pictau.com",
     };
     var args = [
-      "\n %c Made with ❤️ by " + conf.author + " %c " + conf.url + " %c %c\n",
-      "border: 1px solid #000;color: #000; background: #fff001; padding:5px 0;",
-      "padding:5px 0;border: 1px solid #000;",
-      "color: #fff; padding:5px 0;",
-      "color: #b0976d; padding:5px 0;",
+      "\r\n%c Made with ❤️ by " + conf.author + " %c   %c  " + conf.url + "  ",
+      "display:block;border: 1px solid #23855d;color: #2e5646; background: #1dbd7c; padding:5px 0;",
+      !config || !config.author
+        ? "background-image:url('https://pictau.com/noBorrar/xenolito-icon.png');background-size:cover; padding: 15px 20px; line-height:30px; margin: 0 20px"
+        : "background-color:#545454",
+      "display:block;padding:5px 0;border: 1px solid #000;",
     ];
     window.console.log.apply(console, args);
   } else if (window.console) {
