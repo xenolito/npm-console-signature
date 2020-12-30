@@ -1,9 +1,10 @@
 function signature(config) {
+  const conf = {
+    author: (config && config.author) || "@xenolito",
+    url: (config && config.url) || "https://www.pictau.com",
+  };
+
   if (navigator.userAgent.toLowerCase().indexOf("chrome") > -1) {
-    const conf = {
-      author: (config && config.author) || "@xenolito",
-      url: (config && config.url) || "https://www.pictau.com",
-    };
     var args = [
       "\r\n%c Made with ❤️ by " + conf.author + " %c   %c  " + conf.url + "  ",
       "display:block;border: 1px solid #23855d;color: #2e5646; background: #1dbd7c; padding:5px 0;",
