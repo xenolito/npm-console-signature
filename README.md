@@ -1,4 +1,4 @@
-![pictau signature example](https://github.com/xenolito/npm-console-signature/blob/cf62f79ef45b17f6a174b1697ea489400bfdd0a7/pictau-signature-example.png)
+<img src="https://github.com/xenolito/npm-console-signature/blob/cf62f79ef45b17f6a174b1697ea489400bfdd0a7/pictau-signature-example.png?raw=true">
 
 # OUTPUT AUTHOR SIGNATURE ON BROWSER DEVTOOLS @@
 
