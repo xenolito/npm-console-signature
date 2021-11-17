@@ -1,6 +1,6 @@
 {
   "name": "@xenolito/console-signature",
-  "version": "1.6.0",
+  "version": "1.9.4",
   "description": "Signature for DevTools",
   "main": "index.js",
   "keywords": [
@@ -8,8 +8,5 @@
     "DevTools"
   ],
   "author": "Oscar Rey Tajes <oscar.rey.tajes@gmail.com>",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "license": "MIT"
 }
