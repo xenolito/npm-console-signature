@@ -8,7 +8,7 @@
     "DevTools"
   ],
   "author": "Oscar Rey Tajes <oscar.rey.tajes@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
