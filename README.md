@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/xenolito/npm-console-signature/master/pictau-signature-example.png">
 
-# OUTPUT AUTHOR SIGNATURE ON BROWSER DEVTOOLS
+# OUTPUT AUTHOR SIGNATURE ON BROWSER DEVTOOLS @@
 
 Just outputs the author signature on browser's console dev tools.
 Applies formating for Chrome 38+
