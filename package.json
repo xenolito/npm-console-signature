@@ -1,15 +1,15 @@
 {
-  "name": "console-signature",
-  "version": "1.5.0",
+  "name": "@xenolito/console-signature",
+  "version": "1.6.0",
   "description": "Signature for DevTools",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "signature",
     "DevTools"
   ],
-  "author": "Oscar Rey Tajes",
-  "license": "ISC"
+  "author": "Oscar Rey Tajes <oscar.rey.tajes@gmail.com>",
+  "license": "MIT"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
