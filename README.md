@@ -1,4 +1,4 @@
-![pictau signature example](pictau-signature-example.png)
+![pictau signature example](https://raw.githubusercontent.com/xenolito/npm-console-signature/master/pictau-signature-example.png)
 # OUTPUT AUTHOR SIGNATURE ON BROWSER DEVTOOLS
 
 Just outputs the author signature on browser's console dev tools.
