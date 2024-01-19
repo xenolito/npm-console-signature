@@ -1,6 +1,6 @@
 {
   "name": "@xenolito/console-signature",
-  "version": "1.9.9",
+  "version": "2.0.0",
   "description": "Signature for DevTools",
   "main": "index.js",
   "keywords": [

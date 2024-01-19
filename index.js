@@ -5,7 +5,6 @@ function signature(config) {
   };
 
   const browser = navigator.userAgent.toLowerCase();
-  console.log(browser)
 
   if (browser.indexOf("chrome") > -1 ) {
     var args = [
